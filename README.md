@@ -1,6 +1,6 @@
 PHP 30 Days Basic Q_A
 
-Outputs : https://www.stuntbusiness.com/challenges/php30/outputs.php
+Outputs : https://www.stuntbusiness.ca/challenges/php30/outputs.php
 
 Answers for the PHP Q&A started from my instagram : https://www.instagram.com/benjivrik/
 
